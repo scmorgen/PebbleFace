@@ -4,13 +4,13 @@
         ""
     ],
     "companyName": "sojamorgens@gmail.com",
-    "longName": "Message2Pebble",
+    "longName": "FullProject",
     "projectType": "native",
     "resources": {
         "media": []
     },
-    "shortName": "Message2Pebble",
-    "uuid": "7c02f3fb-ff81-4893-aa1c-f741b2e7c3ff",
+    "shortName": "FullProject",
+    "uuid": "21393bc1-0b07-4a52-8fa3-1b231a588cc4",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
